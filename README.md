@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Vedant Agrawal</h1>
 <h3 align="center">SYSTEM AND NETWORK Administrator, I possess a range of skills in installation, configuration, upgrade and maintenance of Information Technology infrastructure. I have 3 years of experience working across different platforms, such as Windows Server, Linux Server , VMWare ESXi, CISCO Router & Switch, Mikrotik Router, MAIPU Switch, Router, along with troubleshooting hardware. I am committed to finding innovative solutions to a variety of IT problems, such as security and technical troubleshooting. I also possess Computer troubleshooting.</h3>
 
